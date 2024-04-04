@@ -6,3 +6,4 @@
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=thstmddns&show_icons=true&theme=onedark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thstmddns)](https://solved.ac/thstmddns/)
 
+<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
