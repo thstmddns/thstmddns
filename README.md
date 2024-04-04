@@ -41,3 +41,21 @@
       src="https://img.shields.io/badge/swsohn470@gmail.com-D14836?style=for-the-badge&logo=google&logoColor=white"/>&nbsp
   </a>
 </div>
+
+# 1. 교육
++ - 네이버 부스트코스
+  - 스마트인재개발원
+  - SSAFY
+    
+# 2. 자격증
++ - ADsP
+  - AI:100 Azure AI Fundamentals
+  - SQLD
+  - PCCE
+  - 정보처리기사(필기 합)
+  - 빅데이터분석기사(필기 합)
+
+# 수상
++ - 실전역량 프로젝트 장려상(IT 여성기업인협회)
+  - Kaggle 데이터분석경진대회 우수상(스마트인재개발원)
+  - 공통프로젝트 우수상(SSAFY)
