@@ -32,4 +32,7 @@
       src="https://img.shields.io/badge/thstmddns@naver.com-D14836?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
    <a href="mailto:swsohn470@gmail.com">
+    <img
+      src="https://img.shields.io/badge/swsohn470@gmail.com-D14836?style=for-the-badge&logo=google&logoColor=white"/>&nbsp
+  </a>
 </div>
