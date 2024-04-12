@@ -43,6 +43,7 @@
 </div>
 
 # 1. 교육
+- H-Mobility Class(진행 중)
 - 네이버 부스트코스
 - 스마트인재개발원
 - SSAFY
