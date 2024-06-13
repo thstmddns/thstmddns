@@ -43,7 +43,7 @@
 </div>
 
 # 1. 교육
-1. H-Mobility Class(진행 중)
+1. H-Mobility Class(수료)
 2. 네이버 부스트코스
    - 리드부스터(팀장)
    - 우수 스터디 선정
