@@ -64,6 +64,7 @@
 - AI:100 Azure AI Fundamentals
 - SQLD
 - PCCE
+- PCCP
 - 정보처리기사(필기 합)
 
 # 3. 수상
